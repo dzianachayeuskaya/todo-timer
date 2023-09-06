@@ -1,0 +1,30 @@
+{
+    "taskList": [
+        {
+            "name": "First task",
+            "id": "1",
+            "spentTime": "0",
+            "timeRangeArray": [{ "startPointOb": 0, "stopPointOb": 0 }]
+        },
+        {
+            "name": "Second task",
+            "id": "2",
+            "spentTime": "0",
+            "timeRangeArray": [{ "startPointOb": 0, "stopPointOb": 0 }]
+        }
+    ],
+    "completedTaskList": [
+        {
+            "name": "Third task",
+            "id": "3",
+            "spentTime": "20 m",
+            "timeRangeArray": [{ "startPointOb": 0, "stopPointOb": 0 }]
+        },
+        {
+            "name": "Fourth task",
+            "id": "4",
+            "spentTime": "1 h",
+            "timeRangeArray": [{ "startPointOb": 0, "stopPointOb": 0 }]
+        }
+    ]
+}
