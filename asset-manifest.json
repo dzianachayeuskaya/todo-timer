@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-timer/static/css/main.e6c13ad2.css",
+    "main.js": "/todo-timer/static/js/main.d689782c.js",
+    "index.html": "/todo-timer/index.html",
+    "main.e6c13ad2.css.map": "/todo-timer/static/css/main.e6c13ad2.css.map",
+    "main.d689782c.js.map": "/todo-timer/static/js/main.d689782c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d689782c.js"
+  ]
+}
